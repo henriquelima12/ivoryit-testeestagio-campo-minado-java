@@ -17,7 +17,7 @@ Agora podemos analisar uma próxima posição (destacada de amarelo). Repare que
 
 Outro exemplo é a casa destaca em amarelo, nesta situação onde todas as posições não abertas são iguais ao número da posição destacada, indica que todas as posições possuem uma mina terrestre.
 
-![Exemplo campo minado jogada 3](https://github.com/ivory-it/ivoryit-testeestagio-campo-minado-java/main/imagens/3.png)
+![Exemplo campo minado jogada 3](https://github.com/ivory-it/ivoryit-testeestagio-campo-minado-java/blob/main/imagens/3.png)
 
 Se no passo anterior descobrimos três minas terrestres, o item destacado em amarelo possui duas minas terrestres em volta. Portanto a posição destaca em verde está livre para abrirmos.
 
