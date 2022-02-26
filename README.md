@@ -48,7 +48,7 @@ Como todos sabem, uma string é um vetor de caracteres, portanto o objetivo do a
 ## Roteiro
 1. Ter uma conta no GitHub;
 2. Criar um novo projeto no GitHub e realizar o clone do mesmo em sua máquina;
-3. Baixar o código fonte inicial [neste link](https://github.com/ivory-it/ivoryit-testeestagio-campo-minado-java/archive/blob/main.zip);
+3. Baixar o código fonte inicial [neste link](https://github.com/ivory-it/ivoryit-testeestagio-campo-minado/archive/refs/heads/master.zip);
 4. Colocar o projeto no diretório do projeto clonado da sua conta do GitHub;
 5. Ter instalado em sua máquina o [COMPLETAR AQUI COM OS REQUISITOS]
 7. Após instalação das IDEs, abra o projeto para iniciar a códificação;
