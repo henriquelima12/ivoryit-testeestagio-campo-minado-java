@@ -50,7 +50,7 @@ Como todos sabem, uma string é um vetor de caracteres, portanto o objetivo do a
 2. Criar um novo projeto no GitHub e realizar o clone do mesmo em sua máquina;
 3. Baixar o código fonte inicial [neste link](https://github.com/ivory-it/ivoryit-testeestagio-campo-minado-java/archive/refs/heads/main.zip);
 4. Colocar o projeto no diretório do projeto clonado da sua conta do GitHub;
-5. Ter instalado em sua máquina Java 1.8, Eclipse configurado com Maven
+5. Ter instalado em sua máquina Java 1.8 e Eclipse configurado com Maven;
 7. Após instalação da IDE, realize a importação como projeto Maven para iniciar a códificação;
 8. Após finalizar e ter o algoritimo completo, basta subir as alterações (commit/push) para sua conta e responder o e-mail do teste com o link da sua conta no GitHub, para que possamos analisar sua codificação.
 
